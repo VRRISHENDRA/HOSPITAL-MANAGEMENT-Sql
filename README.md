@@ -110,3 +110,4 @@ administrators.
 • Provide training and support to users to ensure efficient utilization of the system. 
 • Continuously gather feedback from users to improve usability and enhance user 
 experience.
+![image](https://github.com/user-attachments/assets/f1a24e84-337d-4647-9f6c-0ef64720d8ea)
